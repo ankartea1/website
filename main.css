@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+
+* {
+     background-color: rgb(64, 211, 64);
+     text-align: center;
+     font-family: 'Rubik', sans-serif;
+}
+
+h1{
+     color: teal;
+     font-size: 70px;
+     text-align: center;
+     
+}
+
+h3 {
+     color: purple;
+}
+
+p {
+     margin: 5px 50px 5px;
+}
+
+.container {
+     display: flex;
+     justify-content: space-around;
+     background-color: gold;
+}
+
+.box {
+     background-color: gold;
+     padding: 25px;
+}
